@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="https://github.com/xclipsy/Sloopy_Owl/releases/download/public-beta/SloopyOwl-v0.1.0-beta.apk">
+<a href="https://github.com/xclipsy/Sloopy_Owl/releases/tag/public-beta">
   <img src="https://img.shields.io/badge/⬇️%20Descargar%20APK-SloopyOwl%20v0.1.0%20Beta-5E17A6?style=for-the-badge&logoColor=white" alt="Descargar APK" height="50"/>
 </a>
 
